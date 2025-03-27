@@ -1,6 +1,6 @@
 # Aplicaciones Moviles 2025 - Ejemplos layouts Semana 3 - Parte 1
 
-Proyecto sencillo que muestra una posible solucion para resolver un ejercicio propuesto de layout
+Proyecto sencillo que muestra una posible solucion para resolver un ejercicio propuesto de layout, utilizando LinearLayout
 
 ## Visualizacion
 Para visualizar los ejemplos, no se debe ejecutar la aplicación en telefono/emulador. Esto debido a que aun no se ha trabajado la forma para visualizar distintas pantallas a traves de un menu o de opciones en la pantalla principal
