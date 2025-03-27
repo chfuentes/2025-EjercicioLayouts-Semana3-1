@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2025EjerciciosLayoutsS3</string>
+    <string name="tv_detalle_conversion">Esta aplicación convierte pesos chilenos en la currencia del pais seleccionado</string>
+    <string name="bt_convertir_pesos">Convertir Pesos</string>
+    <string-array name="sp_opciones_paises">
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>EEUU</item>
+    </string-array>
+</resources>
